@@ -1,0 +1,15 @@
+.main{
+    margin-top: 10%;
+}
+
+.card{
+    margin: 30px;
+    background-color: #f4faf5;
+    border-top: 8px solid #2f9e41;
+    display: inline-block;
+    overflow: hidden;
+    height: 190px;
+    width: 240px;
+    filter: drop-shadow(6px 6px 2px #cdcdcd);
+
+}
